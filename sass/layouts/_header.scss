@@ -5,41 +5,54 @@
     width:100%;
     height:100vh;
     display:flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     &--project1{
         color:white;
         margin:1rem;
+        font-size:2rem;
         padding:1.5rem 2rem;
         background-color:#7d7d0e;
         border-radius: 1rem;
+        font-family: 'Dancing Script', cursive;
+
     }
     &--project2{
         color:white;
         margin:1rem;
+        font-size:2rem;
         padding:1.5rem 2rem;
         background-color:#bd6705;
         border-radius: 1rem;
+        font-family: 'Dancing Script', cursive;
+
     }
     &--project3{
         color:white;
         margin:1rem;
+        font-size:2rem;
         padding:1.5rem 2rem;
         background-color:#09828c;
         border-radius: 1rem;
+        font-family: 'Dancing Script', cursive;
+
     }
     &--project4{
         color:white;
         margin:1rem;
+        font-size:2rem;
         padding:1.5rem 2rem;
         background-color:#08844e;
         border-radius: 1rem;
+        font-family: 'Dancing Script', cursive;
+
     }
     &--project5{
         color:white;
         margin:1rem;
         padding:1.5rem 2rem;
+        font-family: 'Dancing Script', cursive;
+        font-size:2rem;
         background-color:#173173;
         border-radius: 1rem;
     }
@@ -47,12 +60,16 @@
         color:white;
         margin:1rem;
         padding:1.5rem 2rem;
+        font-family: 'Dancing Script', cursive;
+        font-size:2rem;
         background-color:#750564;
         border-radius: 1rem;
     }
     &--project7{
         color:white;
         margin:1rem;
+        font-family: 'Dancing Script', cursive;
+        font-size:2rem;
         padding:1.5rem 2rem;
         background-color:#860707;
         border-radius: 1rem;
@@ -61,43 +78,56 @@
         color:white;
         margin:1rem;
         padding:1.5rem 2rem;
-        background-color:#7d7d0e;
+        background-color:#a5a56e;
+        font-family: 'Dancing Script', cursive;
+        font-size:2rem;
         border-radius: 1rem;
     }
     &--project9{
         color:white;
+        font-family: 'Dancing Script', cursive;
+        font-size:2rem;
         margin:1rem;
         padding:1.5rem 2rem;
-        background-color:#7d7d0e;
+        background-color:#eca06e;
         border-radius: 1rem;
     }
     &--project10{
         color:white;
         margin:1rem;
         padding:1.5rem 2rem;
-        background-color:#7d7d0e;
+        font-family: 'Dancing Script', cursive;
+        font-size:2rem;
+        background-color:#6da2b9;
         border-radius: 1rem;
     }
     &--project11{
         color:white;
         margin:1rem;
         padding:1.5rem 2rem;
-        background-color:#7d7d0e;
+        font-family: 'Dancing Script', cursive;
+        font-size:2rem;
+        background-color:#73ce9e;
         border-radius: 1rem;
     }
     &--project12{
         color:white;
+        font-family: 'Dancing Script', cursive;
+        font-size:2rem;
         margin:1rem;
         padding:1.5rem 2rem;
-        background-color:#7d7d0e;
+        background-color:#b97cbb;
         border-radius: 1rem;
     }
     &--project13{
         color:white;
         margin:1rem;
         padding:1.5rem 2rem;
-        background-color:#7d7d0e;
+        font-size:2rem;
+        background-color:#de7e84;
         border-radius: 1rem;
+        font-family: 'Dancing Script', cursive;
+
     }
     
 }
