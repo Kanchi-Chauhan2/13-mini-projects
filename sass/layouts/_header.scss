@@ -1,0 +1,103 @@
+.container{
+    background-image: url('../../img/back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    &--project1{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#7d7d0e;
+        border-radius: 1rem;
+    }
+    &--project2{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#bd6705;
+        border-radius: 1rem;
+    }
+    &--project3{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#09828c;
+        border-radius: 1rem;
+    }
+    &--project4{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#08844e;
+        border-radius: 1rem;
+    }
+    &--project5{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#173173;
+        border-radius: 1rem;
+    }
+    &--project6{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#750564;
+        border-radius: 1rem;
+    }
+    &--project7{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#860707;
+        border-radius: 1rem;
+    }
+    &--project8{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#7d7d0e;
+        border-radius: 1rem;
+    }
+    &--project9{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#7d7d0e;
+        border-radius: 1rem;
+    }
+    &--project10{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#7d7d0e;
+        border-radius: 1rem;
+    }
+    &--project11{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#7d7d0e;
+        border-radius: 1rem;
+    }
+    &--project12{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#7d7d0e;
+        border-radius: 1rem;
+    }
+    &--project13{
+        color:white;
+        margin:1rem;
+        padding:1.5rem 2rem;
+        background-color:#7d7d0e;
+        border-radius: 1rem;
+    }
+    
+}

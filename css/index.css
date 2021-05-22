@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'fontello';
+  src: url("../font/fontello.eot?30900161");
+  src: url("../font/fontello.eot?30900161#iefix") format("embedded-opentype"), url("../font/fontello.woff2?30900161") format("woff2"), url("../font/fontello.woff?30900161") format("woff"), url("../font/fontello.ttf?30900161") format("truetype"), url("../font/fontello.svg?30900161#fontello") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+*, *::after, *::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+body, a, p, input, select, textarea {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.4rem;
+  position: relative;
+  color: #383838;
+  display: block;
+  text-decoration: none; }
+
+.body {
+  position: relative; }
+
+.container {
+  background-image: url("../../img/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .container--project1 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #7d7d0e;
+    border-radius: 1rem; }
+  .container--project2 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #bd6705;
+    border-radius: 1rem; }
+  .container--project3 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #09828c;
+    border-radius: 1rem; }
+  .container--project4 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #08844e;
+    border-radius: 1rem; }
+  .container--project5 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #173173;
+    border-radius: 1rem; }
+  .container--project6 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #750564;
+    border-radius: 1rem; }
+  .container--project7 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #860707;
+    border-radius: 1rem; }
+  .container--project8 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #7d7d0e;
+    border-radius: 1rem; }
+  .container--project9 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #7d7d0e;
+    border-radius: 1rem; }
+  .container--project10 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #7d7d0e;
+    border-radius: 1rem; }
+  .container--project11 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #7d7d0e;
+    border-radius: 1rem; }
+  .container--project12 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #7d7d0e;
+    border-radius: 1rem; }
+  .container--project13 {
+    color: white;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    background-color: #7d7d0e;
+    border-radius: 1rem; }
